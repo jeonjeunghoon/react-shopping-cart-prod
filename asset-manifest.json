@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "https://jeonjeunghoon.github.io/react-shopping-cart-prod/static/js/main.3146c25b.js",
+    "index.html": "https://jeonjeunghoon.github.io/react-shopping-cart-prod/index.html",
+    "main.3146c25b.js.map": "https://jeonjeunghoon.github.io/react-shopping-cart-prod/static/js/main.3146c25b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3146c25b.js"
+  ]
+}
