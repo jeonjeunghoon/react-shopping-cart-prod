@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-shopping-cart-prod/static/js/main.9d2448f7.js",
+    "main.js": "/react-shopping-cart-prod/static/js/main.c0d92b19.js",
     "index.html": "/react-shopping-cart-prod/index.html",
-    "main.9d2448f7.js.map": "/react-shopping-cart-prod/static/js/main.9d2448f7.js.map"
+    "main.c0d92b19.js.map": "/react-shopping-cart-prod/static/js/main.c0d92b19.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d2448f7.js"
+    "static/js/main.c0d92b19.js"
   ]
 }
